@@ -9,7 +9,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: "devlinks-client-g1tt-4ubevn0a9-sarthak9140s-projects.vercel.app",
     credentials: true,
   })
 );
