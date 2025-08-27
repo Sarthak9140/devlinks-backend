@@ -9,7 +9,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "https://devlinks-client-g1tt.vercel.app",
+    origin: "https://devlinks-client-h33s.vercel.app",
     credentials: true,
   })
 );
